@@ -1,0 +1,7 @@
+step 0) open xampp start server and mysql
+step 1) goto terminal 
+step 2) cd laravelfirstproject
+step 3) php artisan serve
+step 4) goto browser open admin panel (http://localhost:8000/login)
+        username (charveesaraiya@gmail.com) password (12345)
+step 5) goto another tab in browser (http://localhost:8000/userhome)
